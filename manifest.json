@@ -3,8 +3,8 @@
     "dumper" : {
         "data_url" : [
             "http://www.informatics.jax.org/downloads/reports/MGI_Gene_Model_Coord.rpt",
-            "MGI_Geno_DiseaseDO.rpt",
-            "MGI_DO.rpt"],
+            "http://www.informatics.jax.org/downloads/reports/MGI_Geno_DiseaseDO.rpt",
+            "http://www.informatics.jax.org/downloads/reports/MGI_DO.rpt"],
         "uncompress" : false,
         "release" : "version:get_release"
     },

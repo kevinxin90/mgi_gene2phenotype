@@ -1,0 +1,15 @@
+{
+    "version": "0.1",
+    "dumper" : {
+        "data_url" : [
+            "http://www.informatics.jax.org/downloads/reports/MGI_Gene_Model_Coord.rpt",
+            "MGI_Geno_DiseaseDO.rpt",
+            "MGI_DO.rpt"],
+        "uncompress" : false,
+        "release" : "version:get_release"
+    },
+    "uploader" : {
+        "parser" : "parser:load_data",
+        "on_duplicates" : "ignore"
+    }
+}
